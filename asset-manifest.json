@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.1b72cf21.css",
-    "main.js": "/static/js/main.1c4c7f28.js",
+    "main.css": "/static/css/main.3d260c13.css",
+    "main.js": "/static/js/main.3af1a0a7.js",
     "static/js/488.029122f2.chunk.js": "/static/js/488.029122f2.chunk.js",
+    "static/media/banner-two-bg-my.png": "/static/media/banner-two-bg-my.d85961adce68108d3663.png",
     "static/media/flaticon_loan.svg?": "/static/media/flaticon_loan.c96e9553a54f67dc8a49.svg",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.e615bbcb258550973c16.ttf",
     "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.b823fc0dbb5a5f0c21bb.ttf",
@@ -15,13 +16,10 @@
     "static/media/process-bg-two.png": "/static/media/process-bg-two.b9a564802098da752482.png",
     "static/media/Background_shape.png": "/static/media/Background_shape.19fd973f4aab97375a3d.png",
     "static/media/why-choose-image-1.jpg": "/static/media/why-choose-image-1.2a66e8d36afc7d2d5e9a.jpg",
+    "static/media/CaprimTech.svg": "/static/media/CaprimTech.0f3f23d31a62d75f121f70eceac97209.svg",
     "static/media/flaticon_loan.woff?": "/static/media/flaticon_loan.d4b6a7fa7c5a393ebc94.woff",
     "static/media/flaticon_loan.woff2?": "/static/media/flaticon_loan.417dd2f8b88bef00aa6b.woff2",
     "static/media/banner-one-bg.jpg": "/static/media/banner-one-bg.64db9ba5b2f0baaa9d33.jpg",
-    "static/media/banner-two-bg-2.jpg": "/static/media/banner-two-bg-2.64db9ba5b2f0baaa9d33.jpg",
-    "static/media/banner-two-bg-3.jpg": "/static/media/banner-two-bg-3.64db9ba5b2f0baaa9d33.jpg",
-    "static/media/banner-two-bg-4.jpg": "/static/media/banner-two-bg-4.64db9ba5b2f0baaa9d33.jpg",
-    "static/media/banner-two-bg.jpg": "/static/media/banner-two-bg.64db9ba5b2f0baaa9d33.jpg",
     "static/media/case-study-1.jpg": "/static/media/case-study-1.901e084ee003e932dbe6.jpg",
     "static/media/case-study-2.jpg": "/static/media/case-study-2.901e084ee003e932dbe6.jpg",
     "static/media/case-study-3.jpg": "/static/media/case-study-3.901e084ee003e932dbe6.jpg",
@@ -38,6 +36,7 @@
     "static/media/services-deatils-bg.jpg": "/static/media/services-deatils-bg.baa805ad307e50f0a6ad.jpg",
     "static/media/team-bg.jpg": "/static/media/team-bg.baa805ad307e50f0a6ad.jpg",
     "static/media/cta-three-bg.jpg": "/static/media/cta-three-bg.29ecbfd52eb7d9f04d20.jpg",
+    "static/media/CaprimTech.jpeg": "/static/media/CaprimTech.7a280acaa95b2469a6ac.jpeg",
     "static/media/whait-Logo_6.svg": "/static/media/whait-Logo_6.cdf5c3c3c380f5e758fb4e31085f5167.svg",
     "static/media/portfolio-video-thumb.jpg": "/static/media/portfolio-video-thumb.2491fb02c2fc3a514359.jpg",
     "static/media/whait-Logo_1.svg": "/static/media/whait-Logo_1.43886dd363198acf27ebdd24996b42d4.svg",
@@ -100,12 +99,12 @@
     "index.html": "/index.html",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "static/media/star-shape.svg": "/static/media/star-shape.dfda7e01e47ec72793a7.svg",
-    "main.1b72cf21.css.map": "/static/css/main.1b72cf21.css.map",
-    "main.1c4c7f28.js.map": "/static/js/main.1c4c7f28.js.map",
+    "main.3d260c13.css.map": "/static/css/main.3d260c13.css.map",
+    "main.3af1a0a7.js.map": "/static/js/main.3af1a0a7.js.map",
     "488.029122f2.chunk.js.map": "/static/js/488.029122f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b72cf21.css",
-    "static/js/main.1c4c7f28.js"
+    "static/css/main.3d260c13.css",
+    "static/js/main.3af1a0a7.js"
   ]
 }
