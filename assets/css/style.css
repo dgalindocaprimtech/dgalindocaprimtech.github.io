@@ -1348,13 +1348,24 @@
   }
   
   .loading-text-logo {
-    width: 20px;
+    width: 20px; /* Tamaño base para pantallas pequeñas */
   }
   
-  /* Estilo para desktop */
+  @media (min-width: 480px) {
+    .loading-text-logo {
+      width: 40px; /* Tamaño para pantallas pequeñas-medias */
+    }
+  }
+  
   @media (min-width: 768px) {
     .loading-text-logo {
-      width: 75px;
+      width: 75px; /* Tamaño para pantallas medianas-grandes */
+    }
+  }
+  
+  @media (min-width: 1200px) {
+    .loading-text-logo {
+      width: 100px; /* Tamaño para pantallas grandes */
     }
   }
   
