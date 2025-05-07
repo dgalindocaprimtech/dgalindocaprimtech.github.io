@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.853397c7.css",
-    "main.js": "/static/js/main.93375708.js",
+    "main.css": "/static/css/main.17a61c37.css",
+    "main.js": "/static/js/main.cbc68f32.js",
     "static/js/488.029122f2.chunk.js": "/static/js/488.029122f2.chunk.js",
     "static/media/smiley-woman-holding-smartphone.png": "/static/media/smiley-woman-holding-smartphone.2fd2dbbd11cedc70b9e5.png",
     "static/media/banner-two-bg-my.png": "/static/media/banner-two-bg-my.d85961adce68108d3663.png",
@@ -103,12 +103,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "static/media/star-shape.svg": "/static/media/star-shape.dfda7e01e47ec72793a7.svg",
-    "main.853397c7.css.map": "/static/css/main.853397c7.css.map",
-    "main.93375708.js.map": "/static/js/main.93375708.js.map",
+    "main.17a61c37.css.map": "/static/css/main.17a61c37.css.map",
+    "main.cbc68f32.js.map": "/static/js/main.cbc68f32.js.map",
     "488.029122f2.chunk.js.map": "/static/js/488.029122f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.853397c7.css",
-    "static/js/main.93375708.js"
+    "static/css/main.17a61c37.css",
+    "static/js/main.cbc68f32.js"
   ]
 }
